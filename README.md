@@ -11,11 +11,10 @@ PORTx         | Reads the input state or writes output data to the port pins
 
 
 
+
 **Register** | **Functions** |
 :-----------:|:-------------:|
 TRISx = 1    |  Input
 TRISx = 0    |  Output
-If TRISx = 1 |  PORTx reads 
-                the external pin state
-If TRISx = 0 |  PORTx writes the desired
-                output value to the pin
+If TRISx = 1 |  PORTx reads  the external pin state
+If TRISx = 0 |  PORTx writes the desired output value to the pin
