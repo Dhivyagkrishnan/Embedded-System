@@ -12,5 +12,5 @@ PORTD         | Reads the input state or writes output data to the port pins
 :-----------:|:-------------:|
 TRISD = 1    |  Input
 TRISD = 0    |  Output
-If TRISD = 1 |  PORTx reads  the external pin state
-If TRISD = 0 |  PORTx writes the desired output value to the pin
+If TRISD = 1 |  PORTD reads  the external pin state
+If TRISD = 0 |  PORTD writes the desired output value to the pin
