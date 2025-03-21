@@ -7,7 +7,7 @@ TRISx         | Configures the pin direction(Input/Output)
 PORTx         | Reads the input state or writes output data to the port pins
 
 
-
+<br><br>
 
 
 
