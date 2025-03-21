@@ -1,16 +1,12 @@
 # Embedded-System
 # Week 1 : Blinking the LED's connected to PORTC pins of  PIC16F877A
-
+<br><br>
 **Register** | **Functions** |
 :------------:|:---------------------:|
 TRISx         | Configures the pin direction(Input/Output)
 PORTx         | Reads the input state or writes output data to the port pins
 
-
 <br><br>
-
-
-
 
 **Register** | **Functions** |
 :-----------:|:-------------:|
