@@ -1,4 +1,4 @@
-# Embedded-System
+# Embedded_System
 # Week 1 : Blinking the LED's connected to PORTD pins of  PIC16F877A
 <br><br>
 **Register** | **Functions** |
